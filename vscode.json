@@ -1,0 +1,26 @@
+{
+  "workbench.iconTheme": "material-icon-theme",
+  "vsicons.projectDetection.autoReload": true,
+  "window.zoomLevel": 0,
+  "editor.renderIndentGuides": false,
+  "editor.formatOnSave": true,
+  "prettier.eslintIntegration": true,
+  "editor.snippetSuggestions": "top",
+  "emmet.syntaxProfiles": {
+    "javascript": "jsx"
+  },
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact",
+    "vue-html": "html",
+    "razor": "html",
+    "plaintext": "jade"
+  },
+  "emmet.triggerExpansionOnTab": true,
+  "emmet.showSuggestionsAsSnippets": true,
+  "emmet.preferences": {
+    "css.webkitProperties": "border-right,animation",
+    "css.mozProperties": "",
+    "css.oProperties": null,
+    "css.msProperties": null
+  }
+}
